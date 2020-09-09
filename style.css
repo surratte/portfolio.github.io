@@ -1,5 +1,29 @@
 
 .navbar-brand{
-    font-size: 25px;
+    font-size: 30px;
     font-family: 'Amatic SC', cursive;
+}
+.nav-link{
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+
+}
+.card-body{
+    background-image: url(desktop.jpeg);
+    text-align: center;
+    position: relative;
+}
+.card-title{
+    font-size: 40px;
+    height: 130px;
+    position: fixed;
+    
+}
+.card-text{
+    font-size: 75px;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    position: fixed;
+
 }
