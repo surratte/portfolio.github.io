@@ -1,0 +1,79 @@
+
+.navbar:hover{
+    opacity: 0.7;
+}
+.navbar-brand{
+    font-size: 30px;
+    font-family: 'Amatic SC', cursive;
+}
+.nav-link{
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+}
+.fa{
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: right;
+    text-decoration: white;
+}
+.fa:hover{
+    opacity: 0.7;
+}
+.fa-linkedin{
+    background: skyblue;
+    color: white;
+}
+.fa-github{
+    background: skyblue;
+    color: white;
+}
+.fa-twitter{
+    background: skyblue;
+    color: white;
+}
+.header{
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+  
+    color: whitesmoke;
+}
+.card{
+    margin: 0 auto; 
+        float: none;
+        margin-bottom: 10px; 
+        
+}
+.card-body{
+    background-color: bisque;
+    color: black;
+}
+.container-fluid{
+    background-image: url(contact-us-background.jpg);
+}
+.myemail{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 24px;
+}
+p.card-text{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 19px;
+    color: white;
+}
+.mynumber{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 24px;
+}
+.primarynumber{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 22px;
+}
+.secondarynumber{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 22px;
+}
+.socialmedias{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 24px;
+}

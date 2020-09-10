@@ -31,26 +31,11 @@
     background: skyblue;
     color: white;
 }
-.card-body{
-    background-image: url(desktop.jpeg);
-    text-align: center;
-    position: relative;
+.cardtitle{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+  
 }
-.card-title{
-    font-size: 40px;
-    height: 200px;
-    text-align: center;
-    
-}
-.card-text{
-    font-size: 75px;
-    font-family: 'Pacifico', cursive;
-    font-family: 'Amatic SC', cursive;
-    color: white;
-}
-.button{
-    color: honeydew;
-}
-.button:hover{
-    opacity: 0.7;
+.cardtext{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+  
 }
