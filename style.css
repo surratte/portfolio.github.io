@@ -15,8 +15,8 @@
 }
 .card-title{
     font-size: 40px;
-    height: 130px;
-    position: fixed;
+    height: 200px;
+    text-align: center;
     
 }
 .card-text{
@@ -24,6 +24,4 @@
     font-family: 'Pacifico', cursive;
     font-family: 'Amatic SC', cursive;
     color: white;
-    position: fixed;
-
 }
